@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I work as a system administrator at traditional Japanese SIer's businesss technology department.
+* I work at traditional Japanese SIer's businesss technology department.
+# Job Description
+* system administrator
+* system planning
+* system architect
+* technical support
+# Skill
+* Microsoft365
+* PowerShell
+* Active Directory
+* Microsoft Azure
+* VMware vSphere
