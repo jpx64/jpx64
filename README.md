@@ -21,9 +21,14 @@ Here are some ideas to get you started:
 * system planning
 * system architect
 * technical support
-# Skill
-* Microsoft365
+# Hard Skill
+* Microsoft365(Office365, Intune, AzureAD)
 * PowerShell
 * Active Directory
 * Microsoft Azure
 * VMware vSphere
+* OS(Windows10, Windows Server, iOS/iPadOS)
+# Soft Skill
+* presentation
+* facilitation
+* project read
