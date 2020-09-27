@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 # Soft Skill
 * presentation
 * facilitation
-* project read
+* project lead
