@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I work at traditional Japanese SIer's businesss technology department.
+* I work at Japanese SIer's businesss technology department.
 # Job Description
 * system administrator
 * system planning
